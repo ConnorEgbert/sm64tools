@@ -1,5 +1,6 @@
 # sm64tools
 Collection of tools for manipulating the Super Mario 64 ROM
+Linux installation script included. Just run ```bash install.sh```.
 
 ## n64split
 N64 ROM Splitter and Build System
